@@ -1,0 +1,16 @@
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\obj\Release\lab1_PhamHuyHoang.Pay.resources
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\obj\Release\lab1_NguyenVanTheAnh.csproj.GenerateResource.cache
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\obj\Release\lab1_NguyenVanTheAnh.csproj.CoreCompileInputs.cache
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\bin\Release\EPPlus.dll
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\bin\Release\LumenWorks.Framework.IO.dll
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\bin\Release\EPPlus.xml
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\bin\Release\LumenWorks.Framework.IO.pdb
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\bin\Release\LumenWorks.Framework.IO.xml
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\obj\Release\lab1_NguyenVanTheAnh.csprojAssemblyReference.cache
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\obj\Release\lab1_NguyenVanTheAnh.csproj.CopyComplete
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\bin\Release\lab1_NguyenVanTheAnh.exe.config
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\bin\Release\lab1_NguyenVanTheAnh.exe
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\bin\Release\lab1_NguyenVanTheAnh.pdb
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\obj\Release\lab1_NguyenVanTheAnh.Properties.Resources.resources
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\obj\Release\lab1_NguyenVanTheAnh.exe
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\theanh\Код\lab1_NguyenVanTheAnh\lab1_PhamHuyHoang\obj\Release\lab1_NguyenVanTheAnh.pdb
