@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Data;
 
-namespace lab1_PhamHuyHoang
+namespace lab1_NguyenVanTheAnh
 {
     public class Data
     {

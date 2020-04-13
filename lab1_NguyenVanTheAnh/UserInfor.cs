@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab1_PhamHuyHoang
+namespace lab1_NguyenVanTheAnh
 {
     public class UserInfor
     {

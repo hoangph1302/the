@@ -10,7 +10,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace lab1_PhamHuyHoang
+namespace lab1_NguyenVanTheAnh
+
 {
     public partial class Pay : Form
     {
@@ -42,7 +43,7 @@ namespace lab1_PhamHuyHoang
 
         }
 
-      
+
 
     }
 }
